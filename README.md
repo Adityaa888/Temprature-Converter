@@ -1,2 +1,2 @@
-# Temprature-Converter
-HTML , CSS , JavaScript
+# temperature-converter
+HTML,CSS,JAVA SCRIPT 
